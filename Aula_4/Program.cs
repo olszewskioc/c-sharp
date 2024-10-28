@@ -3,7 +3,7 @@ namespace Aula_4
 {
     internal class MyClass
     {
-        static void Main(string[] args)
+        static void Teste(string[] args)
         {
             for (int i = 0; i <= 10; i++)
             {
