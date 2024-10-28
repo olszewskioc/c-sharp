@@ -26,6 +26,9 @@ namespace Aula_2
             Console.Clear();
             Console.WriteLine($"\nNome: {name}\nQuartos: {rooms}\nPreço: R${price.ToString("N3", CultureInfo.InvariantCulture)}");
             Console.WriteLine($"Último nome: {lastName}\nIdade: {age} anos\nAltura: {height.ToString("N2", CultureInfo.InvariantCulture)} m");
+            Console.WriteLine("\nAperte qualquer tecla para continuar!");
+            Console.ReadKey();
+            Console.Clear();
             
         }
     }
