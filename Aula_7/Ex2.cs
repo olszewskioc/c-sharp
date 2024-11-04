@@ -1,9 +1,9 @@
 using System;
-namespace Aula_6
+namespace Aula_7
 {
     internal class Ex2
     {
-        static void FF(string[] args)
+        static void Teste(string[] args)
         {
             Console.Clear();
             

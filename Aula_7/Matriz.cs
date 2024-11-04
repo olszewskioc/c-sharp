@@ -1,0 +1,39 @@
+using System;
+namespace Aula_7
+{
+    public class Matriz
+    {
+        static void Teste(string[] args)
+        {
+            int[,] matriz = new int[3, 3]
+            {
+                {1, 2, 3},
+                {4, 5, 6},
+                {7, 8, 9}
+            };
+
+            int[,] transposta = new int[3,3];
+
+            for (int i = 0; i < matriz.GetLength(0); i++)
+            {
+                for (int j = 0;  j < matriz.GetLength(1); j++)
+                {
+                    transposta[j, i] = matriz[i, j];
+
+                }
+            }
+
+            for (int i = 0; i < transposta.GetLength(0); i++)
+            {
+                for (int j = 0;  j < transposta.GetLength(1); j++)
+                {
+                    Console.Write($"{transposta[i, j]} ");
+
+                }
+                    Console.WriteLine();
+            }
+
+
+        }
+    }
+}
