@@ -1,0 +1,7 @@
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\obj\Debug\net8.0\Exercicios_Vet_Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\obj\Debug\net8.0\Exercicios_Vet_Matriz.AssemblyInfoInputs.cache
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\obj\Debug\net8.0\Exercicios_Vet_Matriz.AssemblyInfo.cs
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\obj\Debug\net8.0\Exercicios_Vet_Matriz.csproj.CoreCompileInputs.cache
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\obj\Debug\net8.0\Exercicios_Vet_Matriz.sourcelink.json
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\obj\Debug\net8.0\Exercicios_Vet_Matriz.dll
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\obj\Debug\net8.0\Exercicios_Vet_Matriz.pdb
