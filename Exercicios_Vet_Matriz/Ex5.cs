@@ -5,7 +5,7 @@ namespace Exercicios_Vet_Matriz
 {
     public class Ex5
     {
-        static void Main(string[] args)
+        static void Tete(string[] args)
         {
             Console.Clear();
             Console.Write("\nInforme o valor de n para a matriz quadrada n x n: ");

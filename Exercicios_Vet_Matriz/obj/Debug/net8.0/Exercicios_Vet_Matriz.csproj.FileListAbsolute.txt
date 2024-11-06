@@ -3,5 +3,12 @@ C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\obj\Debug\net8.0
 C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\obj\Debug\net8.0\Exercicios_Vet_Matriz.AssemblyInfo.cs
 C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\obj\Debug\net8.0\Exercicios_Vet_Matriz.csproj.CoreCompileInputs.cache
 C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\obj\Debug\net8.0\Exercicios_Vet_Matriz.sourcelink.json
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\bin\Debug\net8.0\Exercicios_Vet_Matriz.exe
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\bin\Debug\net8.0\Exercicios_Vet_Matriz.deps.json
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\bin\Debug\net8.0\Exercicios_Vet_Matriz.runtimeconfig.json
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\bin\Debug\net8.0\Exercicios_Vet_Matriz.dll
 C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\obj\Debug\net8.0\Exercicios_Vet_Matriz.dll
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\obj\Debug\net8.0\refint\Exercicios_Vet_Matriz.dll
 C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\obj\Debug\net8.0\Exercicios_Vet_Matriz.pdb
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\obj\Debug\net8.0\Exercicios_Vet_Matriz.genruntimeconfig.cache
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Vet_Matriz\obj\Debug\net8.0\ref\Exercicios_Vet_Matriz.dll

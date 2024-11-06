@@ -2,7 +2,6 @@ C:\Users\thiagocarvalho\Documents\c-sharp\Aula_7\bin\Debug\net8.0\Aula_7.exe
 C:\Users\thiagocarvalho\Documents\c-sharp\Aula_7\bin\Debug\net8.0\Aula_7.deps.json
 C:\Users\thiagocarvalho\Documents\c-sharp\Aula_7\bin\Debug\net8.0\Aula_7.runtimeconfig.json
 C:\Users\thiagocarvalho\Documents\c-sharp\Aula_7\bin\Debug\net8.0\Aula_7.dll
-C:\Users\thiagocarvalho\Documents\c-sharp\Aula_7\bin\Debug\net8.0\Aula_7.pdb
 C:\Users\thiagocarvalho\Documents\c-sharp\Aula_7\obj\Debug\net8.0\Aula_7.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\thiagocarvalho\Documents\c-sharp\Aula_7\obj\Debug\net8.0\Aula_7.AssemblyInfoInputs.cache
 C:\Users\thiagocarvalho\Documents\c-sharp\Aula_7\obj\Debug\net8.0\Aula_7.AssemblyInfo.cs
