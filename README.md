@@ -6,6 +6,7 @@
 - Aula_5 (Exercises - Conditionals and Loops)
 - Aula_6 (Arrays)
 - Aula_7 (Arrays e Matrizes)
+- Aula_8 (Funções + Exercícios)
 - Exercicios_Vet_Matriz (Avaliation Exercises)
 
 
