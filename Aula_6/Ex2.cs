@@ -3,7 +3,7 @@ namespace Aula_6
 {
     internal class Ex2
     {
-        static void FF(string[] args)
+        static void Main(string[] args)
         {
             Console.Clear();
             

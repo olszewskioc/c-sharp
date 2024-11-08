@@ -3,19 +3,16 @@ namespace Aula_7
 {
     public class Matriz_3D
     {
-        static void Teste(string[] args)
+        static void Main(string[] args)
         {
-            int[,,] matriz = new int[2, 2, 2]
+            int[,,] matriz = new int[1, 2, 3]
             {
                 {
-                    {1, 2},
-                    {5, 6},
-                },
-                {
-                    {3, 4},
-                    {7, 8},
+                    {1, 2, 3},
+                    {5, 6, 7},
                 },
             };
+            Console.WriteLine(matriz.GetLength(1));
             
             int sum = 0;
             

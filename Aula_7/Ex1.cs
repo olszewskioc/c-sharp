@@ -3,7 +3,7 @@ namespace Aula_7
 {
     public class Ex1
     {
-        static void Main(string[] args)
+        static void Teste(string[] args)
         {
             //  1. Ler um vetor com 10 inteiros e mostrar os números na ordem direta e
             //  inversa a que foram lidos.

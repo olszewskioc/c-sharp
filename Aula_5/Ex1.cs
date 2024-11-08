@@ -6,7 +6,7 @@ namespace Aula_5
 {
     internal class Ex1
     {
-        static void Max_min_10(string[] args)
+        static void Main(string[] args)
         {
             Console.Clear();
             
