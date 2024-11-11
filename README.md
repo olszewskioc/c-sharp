@@ -7,6 +7,8 @@
 - Aula_6 (Arrays)
 - Aula_7 (Arrays e Matrizes)
 - Aula_8 (Funções + Exercícios)
+- Aula_9 (Testes com Funções)
+- Aula_10 (Recursividade)
 - Exercicios_Vet_Matriz (Avaliation Exercises)
 
 
