@@ -10,7 +10,7 @@ namespace Aula_11
             {
                 for (int j = 0; j < vet.Length - 1; j++)
                 {
-                    if (vet[j] > vet[j + 1])
+                    if (vet[j] < vet[j + 1])
                     {
                         aux = vet[j];
                         vet[j] = vet[j + 1];
@@ -25,7 +25,7 @@ namespace Aula_11
         {
             Console.WriteLine($"[{string.Join(", ", vet)}]");
         }
-        static void TEEE(string[] args)
+        static void Bu(string[] args)
         {
             int[] vet = [55, 68, 12, 44, 77, 1, 22];
             Ordenar(vet);

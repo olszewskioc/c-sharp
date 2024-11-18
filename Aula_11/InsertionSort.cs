@@ -10,7 +10,7 @@ namespace Aula_11
                 int aux = vet[i];
                 int j = i - 1;
 
-                while(j >= 0 && vet[j] > aux)
+                while(j >= 0 && vet[j] < aux)
                 {
                     Print(vet);
                     vet[j + 1] = vet[j];
@@ -26,7 +26,7 @@ namespace Aula_11
         {
             Console.WriteLine($"[{string.Join(", ", vet)}]");
         }
-        static void Main(string[] args)
+        static void Inse(string[] args)
         {
             int[] vet = [55, 68, 12, 44, 77, 1, 22];
             Ordenar(vet);
