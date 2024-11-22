@@ -182,6 +182,51 @@ namespace Aula_12
                 vet[j + 1] = aux;
             }
         }
+
+                static void Intercalar(int[] vetor, int inicio, int meio, int fim)
+        {
+            int[] aux  = new int[vetor.Length];
+            for (int i = inicio; i <= fim; i++)
+            {
+                aux[i] = vetor[i];
+            }
+            Print(aux);
+
+            int i1 = inicio, i2 = meio + 1, i3 = inicio;
+
+            while(i1 <= meio && i2 <= fim)
+            {
+                if (aux[i1] < aux[i2])
+                {
+                    vetor[i3] = aux[i1];
+                    i1++;
+                }
+                else
+                {
+                    vetor[i3] = aux[i2];
+                    i2++;
+                }
+                i3++;
+                 }
+            while (i1 <= meio)
+                {
+                vetor[i3] = aux[i1];
+                i1++;
+                i3++;
+            }
+            Print(vetor);
+        }
+        static void Merge(int[] vetor, int inicio, int fim)
+        {
+            if (inicio < fim)
+            {
+                int meio = (inicio + fim) / 2;
+                Merge(vetor, inicio, meio);
+                Merge(vetor, meio + 1, fim);
+                Intercalar(vetor, inicio, meio, fim);
+            }
+            // Print(vetor);
+        }
         static void Compare()
         // Exercício 5
         // Implemente os três algoritmos de ordenação (Bubble Sort, Selection Sort e Insertion
@@ -189,39 +234,63 @@ namespace Aula_12
         // inteiros gerados aleatoriamente.
         {
             int[] vet = new int[1000];
-            int[] vet2 = new int[1000];
-            int[] vet3 = new int[1000];
+
             Random r = new Random();
             for (int i = 0; i < vet.Length; i++)
             {
                 vet[i] = r.Next(10000);
-                vet2[i] = r.Next(10000);
-                vet3[i] = r.Next(10000);
             }
 
+            int[] vet2 = (int[]) vet.Clone();
+            int[] vet3 = (int[]) vet.Clone();
+            int[] vet4 = (int[]) vet.Clone();
+            int[] vet5 = (int[]) vet.Clone();
+
             // BubbleSort
-            var bubble = System.Diagnostics.Stopwatch.StartNew();
+            // var bubble = System.Diagnostics.Stopwatch.StartNew();
+            var bubble = DateTime.Now.Ticks;
             Bubble(vet);
-            bubble.Stop();
-            var timeB = bubble.Elapsed.TotalMilliseconds;
-            Console.WriteLine($"Bubble: {timeB} ms");
+            // bubble.Stop();
+            // var timeB = bubble.Elapsed.TotalMilliseconds;
+            var timeB = DateTime.Now.Ticks - bubble;
+            Console.WriteLine($"Bubble: {timeB/10} microS");
 
             // SelectionSort
-            var selection = System.Diagnostics.Stopwatch.StartNew();
+            // var selection = System.Diagnostics.Stopwatch.StartNew();
+            var selection = DateTime.Now.Ticks;
             Selection(vet2);
-            selection.Stop();
-            var timeS = selection.Elapsed.TotalMilliseconds;
-            Console.WriteLine($"Selection: {timeS} ms");
+            // selection.Stop();
+            // var timeS = selection.Elapsed.TotalMilliseconds;
+            var timeS = DateTime.Now.Ticks - selection;
+            Console.WriteLine($"Selection: {timeS/10} microS");
 
             // InsertionSort
-            var insertion = System.Diagnostics.Stopwatch.StartNew();
+            // var insertion = System.Diagnostics.Stopwatch.StartNew();
+            var insertion = DateTime.Now.Ticks;
             Insertion(vet3);
-            insertion.Stop();
-            var timeI = insertion.Elapsed.TotalMilliseconds;
-            Console.WriteLine($"Insertion: {timeI} ms");
-            string best = (timeB < timeI && timeB < timeS) ? "BubbleSort" 
-            : (timeS < timeI && timeS < timeB) ? "SelectionSort" 
-            : "InsertionSort";
+            // insertion.Stop();
+            // var timeI = insertion.Elapsed.TotalMilliseconds;
+            var timeI = DateTime.Now.Ticks - insertion;
+            Console.WriteLine($"Insertion: {timeI/10} microS");
+
+            // MergeSort
+            var merge = DateTime.Now.Ticks;
+            Insertion(vet4);
+            var timeM = DateTime.Now.Ticks - merge;
+            Console.WriteLine($"Merge: {timeM/10} microS");
+
+            // QuickSort
+            var quick = DateTime.Now.Ticks;
+            Insertion(vet5);
+            var timeQ = DateTime.Now.Ticks - quick;
+            Console.WriteLine($"Quick: {timeQ/10} microS");
+
+            string best = (timeB < timeI && timeB < timeS && timeB < timeM && timeB < timeQ) ? "BubbleSort" 
+            : (timeS < timeI && timeS < timeB && timeS < timeM && timeS < timeQ) ? "SelectionSort" 
+            : (timeI < timeS && timeI < timeB && timeI < timeM && timeI < timeQ) ? "InsertionSort"
+            : (timeM < timeS && timeM < timeB && timeM < timeI && timeM < timeQ) ? "MergeSort"
+            : "QuickSort";
+
             Console.WriteLine($"\nO algoritmo com menor tempo foi: {best}");
 
         }
@@ -285,8 +354,8 @@ namespace Aula_12
             // BubbleSortUp();
             // SelectionName();
             // InsertionSort(vet);
-            // Compare();
-            Media(alunos);
+            Compare();
+            // Media(alunos);
 
         }
     }
