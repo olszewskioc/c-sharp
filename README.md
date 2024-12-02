@@ -9,6 +9,10 @@
 - Aula_8 (Funções + Exercícios)
 - Aula_9 (Testes com Funções)
 - Aula_10 (Recursividade)
+- Aula_11 (Bubble, Insertion, Selection)
+- Aula_12 (Merge, Quick, Desafio)
+- Aula_13 (Lista, Pilha, Fila - Encadeada e normal)
+- Aula_14 (Lista, Pilha, Fila - Duplamente Encadeada)
 - Exercicios_Vet_Matriz (Avaliation Exercises)
 
 
