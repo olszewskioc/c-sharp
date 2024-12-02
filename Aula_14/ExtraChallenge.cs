@@ -41,26 +41,33 @@ namespace Aula_14
 
             // Run through the list
             Node? current = begin;
-            while (current != null && current.next != null)
+            while (current != null)
             {
-                while (current != null)
+                if (current.value == value)
                 {
-                    if (current.value == value)
+                    // Value in begin?
+                    if (current.previous == null)
                     {
-                        if (current.previous != null)
+                        begin = begin.next;
+                        if (begin != null)
                         {
-                            current.previous.next = current.next;
-                        }
-                        if (current.next != null)
-                        {
-                            current.next.previous = current.previous;
+                            begin.previous = null;
                         }
                     }
-                    current = current.next;
+                    else if (current.next == null)
+                    {
+                        current.previous.next = null; // Remove o nó do fim, current.previous.next quer dizer que o nó previous ao current aponta para null
+                    }
+                    else 
+                    {
+                        // currentiza os ponteiros do nó previous e do nó posterior
+                        current.previous.next = current.next;
+                        current.next.previous = current.previous;
+                    }
                 }
-
+                current = current.next;
             }
-            
+  
         }
 
         static void Print()
@@ -76,12 +83,12 @@ namespace Aula_14
 
         static void Main(string[] args)
         {
-            Insert(10);
+            Insert(20);
             Insert(20);
             Insert(30);
             Insert(40);
             Insert(20);
-            Insert(50);
+            Insert(20);
 
             Print();
 
