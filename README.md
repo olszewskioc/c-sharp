@@ -13,7 +13,9 @@
 - Aula_12 (Merge, Quick, Desafio)
 - Aula_13 (Lista, Pilha, Fila - Encadeada e normal)
 - Aula_14 (Lista, Pilha, Fila - Duplamente Encadeada)
-- Aula_15 (POO)
+- Aula_15 (POO - Classes, Objetos, Construtores)
+- Aula_16 (POO - Revisão)
+- Aula_16_Heranca (POO - Herança)
 - Exercicios_Vet_Matriz (Avaliation Exercises)
 
 

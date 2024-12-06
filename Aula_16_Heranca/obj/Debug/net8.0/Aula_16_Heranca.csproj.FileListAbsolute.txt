@@ -1,0 +1,15 @@
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_16_Heranca\bin\Debug\net8.0\Aula_16_Heranca.exe
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_16_Heranca\bin\Debug\net8.0\Aula_16_Heranca.deps.json
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_16_Heranca\bin\Debug\net8.0\Aula_16_Heranca.runtimeconfig.json
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_16_Heranca\bin\Debug\net8.0\Aula_16_Heranca.dll
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_16_Heranca\bin\Debug\net8.0\Aula_16_Heranca.pdb
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_16_Heranca\obj\Debug\net8.0\Aula_16_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_16_Heranca\obj\Debug\net8.0\Aula_16_Heranca.AssemblyInfoInputs.cache
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_16_Heranca\obj\Debug\net8.0\Aula_16_Heranca.AssemblyInfo.cs
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_16_Heranca\obj\Debug\net8.0\Aula_16_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_16_Heranca\obj\Debug\net8.0\Aula_16_Heranca.sourcelink.json
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_16_Heranca\obj\Debug\net8.0\Aula_16_Heranca.dll
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_16_Heranca\obj\Debug\net8.0\refint\Aula_16_Heranca.dll
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_16_Heranca\obj\Debug\net8.0\Aula_16_Heranca.pdb
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_16_Heranca\obj\Debug\net8.0\Aula_16_Heranca.genruntimeconfig.cache
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_16_Heranca\obj\Debug\net8.0\ref\Aula_16_Heranca.dll
