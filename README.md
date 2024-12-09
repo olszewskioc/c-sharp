@@ -16,6 +16,8 @@
 - Aula_15 (POO - Classes, Objetos, Construtores)
 - Aula_16 (POO - Revisão)
 - Aula_16_Heranca (POO - Herança)
+- Aula_17 (POO - Abstração)
+- Aula_17_Visibilidade (POO - Visibilidade public, private e protected)
 - Exercicios_Vet_Matriz (Avaliation Exercises)
 
 

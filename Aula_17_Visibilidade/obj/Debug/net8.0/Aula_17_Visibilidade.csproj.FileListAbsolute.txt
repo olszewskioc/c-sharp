@@ -1,0 +1,15 @@
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_17_Visibilidade\bin\Debug\net8.0\Aula_17_Visibilidade.exe
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_17_Visibilidade\bin\Debug\net8.0\Aula_17_Visibilidade.deps.json
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_17_Visibilidade\bin\Debug\net8.0\Aula_17_Visibilidade.runtimeconfig.json
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_17_Visibilidade\bin\Debug\net8.0\Aula_17_Visibilidade.dll
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_17_Visibilidade\bin\Debug\net8.0\Aula_17_Visibilidade.pdb
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_17_Visibilidade\obj\Debug\net8.0\Aula_17_Visibilidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_17_Visibilidade\obj\Debug\net8.0\Aula_17_Visibilidade.AssemblyInfoInputs.cache
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_17_Visibilidade\obj\Debug\net8.0\Aula_17_Visibilidade.AssemblyInfo.cs
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_17_Visibilidade\obj\Debug\net8.0\Aula_17_Visibilidade.csproj.CoreCompileInputs.cache
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_17_Visibilidade\obj\Debug\net8.0\Aula_17_Visibilidade.sourcelink.json
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_17_Visibilidade\obj\Debug\net8.0\Aula_17_Visibilidade.dll
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_17_Visibilidade\obj\Debug\net8.0\refint\Aula_17_Visibilidade.dll
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_17_Visibilidade\obj\Debug\net8.0\Aula_17_Visibilidade.pdb
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_17_Visibilidade\obj\Debug\net8.0\Aula_17_Visibilidade.genruntimeconfig.cache
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_17_Visibilidade\obj\Debug\net8.0\ref\Aula_17_Visibilidade.dll
