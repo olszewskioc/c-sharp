@@ -5,19 +5,21 @@
 - Aula_4 (Loops)
 - Aula_5 (Exercises - Conditionals and Loops)
 - Aula_6 (Arrays)
-- Aula_7 (Arrays e Matrizes)
-- Aula_8 (Funções + Exercícios)
-- Aula_9 (Testes com Funções)
-- Aula_10 (Recursividade)
+- Aula_7 (Arrays e matrix)
+- Aula_8 (Functions + Exercises)
+- Aula_9 (Tests with functions)
+- Aula_10 (Recursion)
 - Aula_11 (Bubble, Insertion, Selection)
-- Aula_12 (Merge, Quick, Desafio)
-- Aula_13 (Lista, Pilha, Fila - Encadeada e normal)
-- Aula_14 (Lista, Pilha, Fila - Duplamente Encadeada)
-- Aula_15 (POO - Classes, Objetos, Construtores)
-- Aula_16 (POO - Revisão)
-- Aula_16_Heranca (POO - Herança)
-- Aula_17 (POO - Abstração)
-- Aula_17_Visibilidade (POO - Visibilidade public, private e protected)
+- Aula_12 (Merge, Quick, Challenge)
+- Aula_13 (List, Stack, Queue - Normal and linked)
+- Aula_14 (List, Stack, Queue - Double Linked)
+- Aula_15 (POO - Classes, Objects, Constructor)
+- Aula_16 (POO - Revision)
+- Aula_16_Heranca (POO - Heritage)
+- Aula_17 (POO - Abstraction)
+- Aula_17_Visibilidade (POO - Visibility public, private e protected)
+- Aula_18 (POO - Encapsulation and Properties)
+- Aula_19 (POO - Interface)
 - Exercicios_Vet_Matriz (Avaliation Exercises)
 
 
@@ -30,3 +32,4 @@
 
 ## TLDRAW
 - If you want to use an "Paint" in vscode, you can install the TLDRAW extension. This extension allows you to open and edit '.tldr' archives.
+- All the UML Diagrams in this repository need this extension.
