@@ -36,7 +36,7 @@ namespace Aula_20.Models.Empresa.Funcionario
 
         public override string ToString()
         {
-            return $"\nNome: {Nome}\nNascimento: {Nascimento}\nCPF: {Cpf}\nEndereço: {Endereco?.Rua}, {Endereco?.Numero}, {Endereco?.Bairro}\n";
+            return $"\nNome: {Nome}\nNascimento: {Nascimento:d}\nCPF: {Cpf}\nEndereço: {Endereco?.Rua}, {Endereco?.Numero}, {Endereco?.Bairro}\n";
         }
     }
 }

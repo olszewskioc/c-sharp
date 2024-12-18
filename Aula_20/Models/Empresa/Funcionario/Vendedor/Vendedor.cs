@@ -28,7 +28,7 @@ namespace Aula_20.Models.Empresa.Funcionario.Vendedor
 
         public override string ToString()
         {
-             return $"\nNome: {Nome}\nNascimento: {Nascimento}\nCPF: {Cpf}\nEndereço: {Endereco?.Rua}, {Endereco?.Numero}, {Endereco?.Bairro}\nEquipe: {Equipe?.Nome}\nSalário: R${GetSalario():F2}\n";
+             return $"\nNome: {Nome}\nNascimento: {Nascimento:d}\nCPF: {Cpf}\nEndereço: {Endereco?.Rua}, {Endereco?.Numero}, {Endereco?.Bairro}\nEquipe: {Equipe?.Nome}\nSalário: R${GetSalario():F2}\n";
         }
     }
 }
