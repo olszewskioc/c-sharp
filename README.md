@@ -20,6 +20,7 @@
 - Aula_17_Visibilidade (POO - Visibility public, private e protected)
 - Aula_18 (POO - Encapsulation and Properties)
 - Aula_19 (POO - Interface)
+- Aula_20 (POO - Relations)
 - Exercicios_Vet_Matriz (Avaliation Exercises)
 
 
