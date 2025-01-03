@@ -1,0 +1,15 @@
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Revisao\bin\Debug\net8.0\Exercicios_Revisao.exe
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Revisao\bin\Debug\net8.0\Exercicios_Revisao.deps.json
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Revisao\bin\Debug\net8.0\Exercicios_Revisao.runtimeconfig.json
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Revisao\bin\Debug\net8.0\Exercicios_Revisao.dll
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Revisao\bin\Debug\net8.0\Exercicios_Revisao.pdb
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Revisao\obj\Debug\net8.0\Exercicios_Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Revisao\obj\Debug\net8.0\Exercicios_Revisao.AssemblyInfoInputs.cache
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Revisao\obj\Debug\net8.0\Exercicios_Revisao.AssemblyInfo.cs
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Revisao\obj\Debug\net8.0\Exercicios_Revisao.csproj.CoreCompileInputs.cache
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Revisao\obj\Debug\net8.0\Exercicios_Revisao.sourcelink.json
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Revisao\obj\Debug\net8.0\Exercicios_Revisao.dll
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Revisao\obj\Debug\net8.0\refint\Exercicios_Revisao.dll
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Revisao\obj\Debug\net8.0\Exercicios_Revisao.pdb
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Revisao\obj\Debug\net8.0\Exercicios_Revisao.genruntimeconfig.cache
+C:\Users\thiagocarvalho\Documents\c-sharp\Exercicios_Revisao\obj\Debug\net8.0\ref\Exercicios_Revisao.dll
