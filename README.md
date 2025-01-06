@@ -21,6 +21,10 @@
 - Aula_18 (POO - Encapsulation and Properties)
 - Aula_19 (POO - Interface)
 - Aula_20 (POO - Relations)
+- Aula_21 (Enum)
+
+- Exercicio_Biblioteca (UML)
+- Exercicios_Revisao (UML)
 - Exercicios_Vet_Matriz (Avaliation Exercises)
 
 

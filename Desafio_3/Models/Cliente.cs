@@ -17,7 +17,7 @@ namespace Desafio_3.Models
     {
         Endereco = new Endereco();
     }
-    public Cliente(string nome, string telefone, string cpf, string rua, string cidade, string estado, int cep)
+    public Cliente(string nome, string telefone, string cpf, string rua, string cidade, Estado estado, int cep)
     {
         Nome = nome;
         Telefone = telefone;
@@ -32,7 +32,7 @@ namespace Desafio_3.Models
         public double Desconto { get; set; } = 0.10;
         public override string ConsultarFidelidade()
         {
-            return "Cliente Gold";
+            return $"Cliente Gold - {Desconto * 100:F2}%";
         }
     }
     public class ClientePlatinum : Cliente
@@ -40,7 +40,7 @@ namespace Desafio_3.Models
         public double Desconto { get; set; } = 0.15;
         public override string ConsultarFidelidade()
         {
-            return "Cliente Platinum";
+            return $"Cliente Platinum - {Desconto * 100:F2}%";
         }
     }
 }
