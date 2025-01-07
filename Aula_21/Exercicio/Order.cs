@@ -8,7 +8,7 @@ namespace Aula_21.Exercicio
     public class Order
     {
         public DateTime Moment { get; set; }
-        public OrderStatus Status { get; set; }
+        public OrderStatus Status { get; set; } = OrderStatus.PENDING_PAYMENT;
         public List<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
         
         public void AddItem(OrderItem item)
