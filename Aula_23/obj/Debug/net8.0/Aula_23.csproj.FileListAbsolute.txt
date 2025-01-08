@@ -1,0 +1,15 @@
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_23\bin\Debug\net8.0\Aula_23.exe
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_23\bin\Debug\net8.0\Aula_23.deps.json
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_23\bin\Debug\net8.0\Aula_23.runtimeconfig.json
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_23\bin\Debug\net8.0\Aula_23.dll
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_23\bin\Debug\net8.0\Aula_23.pdb
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_23\obj\Debug\net8.0\Aula_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_23\obj\Debug\net8.0\Aula_23.AssemblyInfoInputs.cache
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_23\obj\Debug\net8.0\Aula_23.AssemblyInfo.cs
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_23\obj\Debug\net8.0\Aula_23.csproj.CoreCompileInputs.cache
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_23\obj\Debug\net8.0\Aula_23.sourcelink.json
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_23\obj\Debug\net8.0\Aula_23.dll
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_23\obj\Debug\net8.0\refint\Aula_23.dll
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_23\obj\Debug\net8.0\Aula_23.pdb
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_23\obj\Debug\net8.0\Aula_23.genruntimeconfig.cache
+C:\Users\thiagocarvalho\Documents\c-sharp\Aula_23\obj\Debug\net8.0\ref\Aula_23.dll
