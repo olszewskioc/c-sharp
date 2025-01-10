@@ -1,0 +1,4 @@
+Foram criados Enumerators para os tipos de transações e estados.
+Uma nova classe de Endereço foi adicionada e utiliza o Enumerator "State".
+Na classe "Bank" foram adicionadas 2 campos: Lista de contas e lista de transações.
+A classe "Account" foi modificada para incluir os campos "Type"

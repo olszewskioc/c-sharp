@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 
 namespace Desafio_Bancario.Models
 {
-    public class Costumer(string name, Address address, DateTime dob, string cardNumber, string pin = "0000")
+    public class Costumer(string name, Address? address, DateTime dob, string cardNumber, string pin = "0000")
     {
         private string _name = name;
-        private Address _address = address;
+        private Address? _address = name == "Gerente" ? null : address;
         private DateTime _dob = DateTime.Now - dob >= TimeSpan.FromDays(18 * 365) ? dob 
             : throw new ArgumentOutOfRangeException(nameof(dob), "The costumer needs to be more than 18 years old");
         private string _cardNumber = cardNumber.Length == 16 && cardNumber.All(char.IsDigit) ? cardNumber 
